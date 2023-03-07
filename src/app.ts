@@ -3,7 +3,7 @@ const app = express();
 const cors = require("cors");
 const morgan = require('morgan');
 //Routes
-import tests from './routes/trucksRoutes'
+import tests from './routes/vehiclesRoutes'
 //setting
 let port;
 app.set("port", port || process.env.APP_PORT);

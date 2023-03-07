@@ -1,0 +1,5 @@
+export const getVehicles = 'sp_vehiculos_seek'
+export const getVehicle = 'sp_vehiculos_seek'
+export const createVehicle = 'sp_vehiculos_abm'
+export const modVehicle = 'sp_vehiculos_abm'
+export const disableVehicle = 'sp_vehiculos_onoff'
