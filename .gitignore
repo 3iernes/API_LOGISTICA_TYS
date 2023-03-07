@@ -1,2 +1,4 @@
 .env
 node_modules/
+build/
+logError.csv
